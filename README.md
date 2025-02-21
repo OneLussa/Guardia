@@ -14,3 +14,8 @@ This tool is reserved for ethical and educational purposes.
 
 ## 🔌 Prerequisite
 [Python 3](https://www.python.org/downloads/release/python-370/)
+
+## Bash
+```
+pip install guardia
+```
