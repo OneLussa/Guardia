@@ -5,7 +5,7 @@ For any ideas or contact, please  reach out to me at: onelussa@protonmail.com
 
 ![](https://files.catbox.moe/rkur7l.png)
 
-## How does it work? 
+##💡 How does it work? 
 Guardia is based on the search for information linked from a username, e-mail or telephone number.
 
 This is an ethical tool, and no illegal manipulations are taken beforehand.
