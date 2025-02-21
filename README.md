@@ -11,3 +11,6 @@ Guardia is based on the search for information linked from a username, e-mail or
 This is an ethical tool, and no illegal manipulations are taken beforehand.
 
 This tool is reserved for ethical and educational purposes.
+
+## 🔌 Prerequisite
+[Python 3](https://www.python.org/downloads/release/python-370/)
