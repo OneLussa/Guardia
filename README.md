@@ -1,5 +1,5 @@
 # Guardia
-Guardia is an Ethical Intelligence tool based on online information retrieval
+Guardia is an Osint Ethical  tool based on online information retrieval
 
 For any ideas or contact, please  reach out to me at: onelussa@protonmail.com
 
